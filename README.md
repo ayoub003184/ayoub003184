@@ -4,11 +4,11 @@
 
 ### Artificial Intelligence Engineering Student
 
-AI Development · Machine Learning · Computer Vision · Full-Stack Development
+Machine Learning · Computer Vision · Full-Stack Development
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR-VERCEL-LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayoub-cherfaoui.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub_Cherfaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-cherfaoui-0b3699352/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubcherfaoui19.25@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubcherfaoui19.25@gmail.com)
 
 </div>
 
@@ -16,13 +16,11 @@ AI Development · Machine Learning · Computer Vision · Full-Stack Development
 
 ## About
 
-Artificial Intelligence Engineering student at Xiamen University Malaysia on a full merit scholarship.
-
-I build AI-powered and full-stack systems focused on computer vision, educational technology, automation, and intelligent applications. My deployed projects support more than 1,700 students and 50 lecturers. :contentReference[oaicite:0]{index=0}
+Artificial Intelligence Engineering student at Xiamen University Malaysia on a full merit scholarship. I build practical AI and software systems focused on computer vision, machine learning, automation, and educational technology. My projects include deployed university systems used by more than 1,700 students and 50+ lecturers. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## Technologies
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,nodejs,express,flask,tensorflow,pytorch,opencv,postgres,supabase,docker,git,github,linux" />
@@ -30,77 +28,53 @@ I build AI-powered and full-stack systems focused on computer vision, educationa
 
 <p align="center">
   <img src="https://img.shields.io/badge/RAG-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChromaDB-Vector_Database-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Face_Recognition-Computer_Vision-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/ChromaDB-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Face_Recognition-1F6FEB?style=flat-square" />
 </p>
 
 ---
 
-## Featured Projects
+## Highlighted Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### PYRO Vision
+<a href="https://github.com/ayoub003184/PYRO---Vision-Fire-Detection-Program">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoub003184&repo=PYRO---Vision-Fire-Detection-Program&theme=github_dark&hide_border=true" />
+</a>
 
-Real-time fire-detection system developed with TensorFlow and OpenCV.
+<a href="https://github.com/ayoub003184/A-P-Chatbot">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoub003184&repo=A-P-Chatbot&theme=github_dark&hide_border=true" />
+</a>
 
-- 92% detection accuracy
-- 40% faster inference
-- Optimized for Raspberry Pi deployment
+<a href="https://github.com/ayoub003184/Alzheimer-Path-Assistant">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoub003184&repo=Alzheimer-Path-Assistant&theme=github_dark&hide_border=true" />
+</a>
 
-[View repository](https://github.com/ayoub003184/PYRO---Vision-Fire-Detection-Program)
+<a href="https://github.com/ayoub003184/cardiosurv">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ayoub003184&repo=cardiosurv&theme=github_dark&hide_border=true" />
+</a>
 
-</td>
-<td width="50%" valign="top">
-
-### A&P Chatbot
-
-Retrieval-augmented course assistant with automated quiz generation.
-
-- Built with Python, RAG and ChromaDB
-- Reduced instructor workload by 15 hours per week
-
-[View repository](https://github.com/ayoub003184/A-P-Chatbot)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Alzheimer Path Assistant
-
-Navigation application for memory-impaired users.
-
-- A*, Greedy and BFS algorithms
-- Safety-weighted route selection
-- Interactive visual interface
-
-[View repository](https://github.com/ayoub003184/Alzheimer-Path-Assistant)
-
-</td>
-<td width="50%" valign="top">
-
-### UniAttend
-
-Anti-proxy attendance platform using facial recognition, GPS and QR codes.
-
-- Serves more than 1,700 students
-- Processes 300 students in under two minutes
-- Used within XMUM IT Foundation
-
-</td>
-</tr>
-</table>
-
-The project descriptions and performance figures are based on your CV. :contentReference[oaicite:1]{index=1}
+</div>
 
 ---
 
-## GitHub Statistics
+## Selected Work
+
+### UniAttend
+Anti-cheat attendance platform using facial recognition, GPS, Flask, and QR code verification. Designed for university use and serving more than 1,700 students. :contentReference[oaicite:1]{index=1}
+
+**Live Demo:** [uni-attend2-5inb.vercel.app](https://uni-attend2-5inb.vercel.app)
+
+### CardioSurv
+AI-powered cardiovascular risk triage and two-year survival prediction platform with a FastAPI backend, PostgreSQL, and interactive frontend.
+
+**Live Demo:** [cardiosurv-frontend.onrender.com](https://cardiosurv-frontend.onrender.com)  
+**Repository:** [github.com/ayoub003184/cardiosurv](https://github.com/ayoub003184/cardiosurv)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -114,6 +88,8 @@ The project descriptions and performance figures are based on your CV. :contentR
 
 <div align="center">
 
-Artificial Intelligence · Machine Learning · Computer Vision · Software Engineering
+[Portfolio](https://ayoub-cherfaoui.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/ayoub-cherfaoui-0b3699352/) ·
+[GitHub](https://github.com/ayoub003184)
 
 </div>
