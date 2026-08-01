@@ -1,6 +1,6 @@
 <div align="center">
 
-# AYOUB CHERFAOUI ~ ايوب شرفاوي 
+# AYOUB CHERFAOUI 
 
 ### Artificial Intelligence Undergraduate
 
